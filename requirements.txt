@@ -5,4 +5,4 @@ keras
 streamlit
 tensorflow
 yfinance
-sklearn
+scikit-learn
